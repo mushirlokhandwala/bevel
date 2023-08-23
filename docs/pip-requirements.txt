@@ -6,6 +6,8 @@ recommonmark
 sphinx_rtd_theme
 ###### Installs the mSphinx material theme ######
 sphinx_material
+###### Installs the mSphinx material theme ######
+sphinx_immaterial
 ###### Installs the markdown required for tables ######
 sphinx_markdown_tables
 ## Install mermaid ##
