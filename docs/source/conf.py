@@ -33,7 +33,8 @@ extensions = [
     'sphinx.ext.todo',
     'sphinx_markdown_tables',
     'recommonmark',
-    'sphinxcontrib.mermaid'
+    'sphinxcontrib.mermaid',
+    'sphinx_immaterial'
 ]
 
 # Add any paths that contain templates here, relative to this directory.
