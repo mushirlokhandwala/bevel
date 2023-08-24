@@ -8,6 +8,8 @@ sphinx_rtd_theme
 sphinx_material
 ###### Installs the mSphinx material theme ######
 sphinx_immaterial
+###### Installs the mSphinx material theme ######
+pydata_sphinx_theme
 ###### Installs the markdown required for tables ######
 sphinx_markdown_tables
 ## Install mermaid ##
